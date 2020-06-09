@@ -1,11 +1,11 @@
 
 <p align="center">
-   <img src="/samples_gif/word game logo.png" height="30" align="center">
+   <img src="/samples_gif/word game logo.png" height="70" align="center">
 </p> 
 
 
 # App_WordGame
-**'''Word Game'''** A simple word game on Russian in which you must find little words as a part of main big word. You can add your own main/big words as you whant, change it and custromize the score to win. All your preferences and words will be saved after application restart. Enjoy :)
+**Word Game** - is a simple game on Russian in which you must find little words as a part of main big word. You can add your own main/big words as you whant, change it and custromize the score to win. All your preferences and words will be saved after application restart. Enjoy :)
 
 
 ### Presentation
