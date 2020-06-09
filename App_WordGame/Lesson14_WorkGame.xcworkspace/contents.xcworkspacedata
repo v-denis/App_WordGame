@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Lesson14_WorkGame.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "absolute:Users/owner/Documents/Development/SWIFT/AVENUE_SWIFT/Lesson15_WorkGame/Podfile">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
